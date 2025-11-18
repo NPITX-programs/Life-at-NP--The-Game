@@ -1,2 +1,2 @@
-Horizontal Rule Test: 3 Asterisks
-***
+Horizontal Rule Test: 3 hyphens
+---
