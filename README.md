@@ -1,2 +1,2 @@
-# Life at NP
-life at NP
+Horizontal Rule Test: 3 underscores
+___
