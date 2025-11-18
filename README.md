@@ -1,2 +1,2 @@
-Horizontal Rule Test: 3 hyphens
----
+Horizontal Rule Test: 3 underscores
+___
