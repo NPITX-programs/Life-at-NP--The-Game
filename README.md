@@ -1,2 +1,2 @@
-# Life at NP
+# Life at NP: the game
 life at NP
